@@ -1,0 +1,19 @@
+/**
+ * Maintenance Stylesheet
+ *
+ * @author  Mayeenul Islam
+ * @package Maintenance Notice Feature
+ */
+
+#site-wide-notice{
+	margin-bottom: 10px; /* optional */
+	padding: 20px;
+	background-color: #f4b350;
+	font-size: 20px;
+	text-align: center;
+	display: none; /* we will show the notice using javascript checking cookie */
+}
+
+#close-notice{
+	border-radius: 30px;
+}
