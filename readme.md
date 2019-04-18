@@ -1,5 +1,8 @@
 # Maintenance Notice Feature (PHP)
 
+[![GitHub release](https://img.shields.io/github/release/technovistalimited/maintenance-notice-feature.svg?style=flat&color=green)](https://github.com/technovistalimited/maintenance-notice-feature/releases)
+[![GitHub license](https://img.shields.io/github/license/technovistalimited/maintenance-notice-feature.svg?style=flat&color=blue)](https://github.com/technovistalimited/maintenance-notice-feature/blob/master/LICENSE)
+
 When the maintenance happen to a application/website, mass user get affected. In most of the case the application/website made completely readonly. In that case the users face _huge_ shock.
 
 That's why it would be best to inform them beforehand.
@@ -8,6 +11,8 @@ This feature will enable you display a notice beforehand announcing your plan of
 
 > **NOTE**<br>
 > This is _not_ a 'maintenance mode' feature, it's _just_ a feature to display a pre-notification
+
+![Maintenance Notice Feature (PHP)](https://user-images.githubusercontent.com/4551598/56365701-50bd6180-6213-11e9-90dd-7fad8dfacd11.png)
 
 ## Requirements
 
